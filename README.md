@@ -9,8 +9,12 @@ Para la configuración del laboratorio se seleccionó el modo NAT ya que permite
 Para la capa de Windows se crearon 2 usuarios, 1 como administrador y otro sin permisos de administrador para mas seguridad
 
 <img width="1078" height="855" alt="USUARIO ESTANDAN WINDOWS" src="https://github.com/user-attachments/assets/6a9e95c1-6e4d-4fed-abf6-026f9b853e71" />
+<img width="1278" height="937" alt="USUARIOSSS" src="https://github.com/user-attachments/assets/e4d68479-4b2c-4460-9567-169e7675ded8" />
+
 
 Y la maquina virtual de Windows posee sus respectivas actualizaciones 
+<img width="1033" height="853" alt="update windows" src="https://github.com/user-attachments/assets/ae90aec9-a61b-4c7c-bff7-4806b564837c" />
+
 
 
 
