@@ -34,6 +34,20 @@ Y se adjuntan imagenes de kali completamente actualizado al dia
 <img width="1276" height="884" alt="update" src="https://github.com/user-attachments/assets/55b8fa14-0757-4335-ae6a-67e08b41c56f" />
 
 5. La Red de Seguridad: Snapshot Inicial
+
+Las snapshots de VirtualBox sirven para guardar el estado de una máquina virtual en un momento determinado, de modo que puedas volver a ese estado después.
+
+Por ejemplo, imagina que tienes una VM con Linux y vas a hacer una práctica:
+
+Tienes Linux funcionando correctamente.
+
+Creas una snapshot llamada "Antes de modificar permisos".
+
+Haces cambios, instalas programas, borras archivos, etc.
+
+Algo sale mal.
+
+Puedes restaurar la snapshot y volver al estado que tenía la VM cuando la creaste.
  
 Kali linux
 <img width="1271" height="746" alt="SNAPSHOTS" src="https://github.com/user-attachments/assets/aacd39ab-57b9-491e-818d-49fc2873557f" />
