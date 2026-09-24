@@ -30,7 +30,18 @@ Y la maquina virtual de Windows posee sus respectivas actualizaciones
 
 
 4. La Red de Seguridad: Snapshot Inicial
+ 
+Kali linux
+<img width="1271" height="746" alt="SNAPSHOTS" src="https://github.com/user-attachments/assets/aacd39ab-57b9-491e-818d-49fc2873557f" />
 
-Adjunto imagen de la snapshot creada para la maquina virtual de Kali
+
+Windows
+<img width="1277" height="748" alt="snapshot windows" src="https://github.com/user-attachments/assets/86be89e1-759e-46e8-bbf3-116cc4c00770" />
+
+
+
+
+
+
 
 <img width="1271" height="746" alt="SNAPSHOTS" src="https://github.com/user-attachments/assets/f94abb0f-8d54-400d-8771-6cade37bd5a9" />
