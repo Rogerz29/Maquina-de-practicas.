@@ -16,20 +16,24 @@ Y la maquina virtual de Windows posee sus respectivas actualizaciones
 <img width="1033" height="853" alt="update windows" src="https://github.com/user-attachments/assets/ae90aec9-a61b-4c7c-bff7-4806b564837c" />
 
 
+3. Capa Linux: Permisos y Gestión
+
+Aca tenemos creacion de usuarios para mas seguridad 
+<img width="2047" height="1274" alt="USUARIO NUEVO KALI" src="https://github.com/user-attachments/assets/fb3b8133-8245-4bca-b18b-8e389ed054e0" />
+<img width="2043" height="1279" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4a04a5b9-4a75-42c0-b2c7-476693bb07d3" />
 
 
+Posteriormente creamos un archivo y le quitamos permiso a los demas usuarios
+<img width="2093" height="1285" alt="asda" src="https://github.com/user-attachments/assets/9624171c-62bb-4646-b3b1-7ecc71593ddf" />
+
+Aca se cambiaron los permisos
+<img width="2040" height="1291" alt="permisos sobre un archivo" src="https://github.com/user-attachments/assets/03dac7e9-4c5c-4257-bffc-4a5132ad670c" />
 
 
+Y se adjuntan imagenes de kali completamente actualizado al dia 
+<img width="1276" height="884" alt="update" src="https://github.com/user-attachments/assets/55b8fa14-0757-4335-ae6a-67e08b41c56f" />
 
-
-
-
-
-
-
-
-
-4. La Red de Seguridad: Snapshot Inicial
+5. La Red de Seguridad: Snapshot Inicial
  
 Kali linux
 <img width="1271" height="746" alt="SNAPSHOTS" src="https://github.com/user-attachments/assets/aacd39ab-57b9-491e-818d-49fc2873557f" />
@@ -37,11 +41,3 @@ Kali linux
 
 Windows
 <img width="1277" height="748" alt="snapshot windows" src="https://github.com/user-attachments/assets/86be89e1-759e-46e8-bbf3-116cc4c00770" />
-
-
-
-
-
-
-
-<img width="1271" height="746" alt="SNAPSHOTS" src="https://github.com/user-attachments/assets/f94abb0f-8d54-400d-8771-6cade37bd5a9" />
